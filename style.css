@@ -75,7 +75,8 @@
 	position:absolute;
 	bottom:10px;
 	left:0;
-	color:#f10;
+	color:#fff;
+	font-size:20px;
 	font-weight:6000;
 }
 .about-me .me-pic{
